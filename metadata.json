@@ -1,0 +1,6 @@
+{
+  "name": "PhytoScan Lab — Plant Disease Detection (Phase 1)",
+  "description": "Semester 1 prototype and technical report for automated plant leaf disease detection using ResNet50 transfer learning and Grad-CAM explainability, with Semester 2 LLM guidance roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
